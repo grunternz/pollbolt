@@ -1,5 +1,1 @@
-TODO:
-
-cache stylesheets locally.
-poll results.
-about page.
+Poll Bolt is a university project, single page application created using CodeIgniter and AngularJS, designed around enabling users to vote on polls of varying topic through the use of my own RESTful web services. I implemented various GET, POST and DELETE API services, and integrated a third party graphic library named ChartJS, to visually represent poll results on a graph. For extra credit, I updated an outdated third party graph legend plugin for ChartJS, enabling it to work with the latest version.

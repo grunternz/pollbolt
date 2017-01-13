@@ -1,0 +1,80 @@
+body {
+    background-color: #bbb;
+}
+
+.undecorated-list {
+	list-style: none; 
+	padding: 0;
+}
+
+.radio {
+    font-size: 18px;
+}
+
+hr {
+	border-color: #D8D8D8;
+	margin-bottom: 10px;
+}
+
+h2, h3 {
+    font-weight: bold;
+}
+
+.list-line-height {
+    line-height: 140%;
+}
+
+.list-indent {
+    text-indent: 40px;
+}
+
+.legend {
+    width: 10em;
+}
+
+.legend .field {
+    display: block;
+    margin: 0.5em;
+    border-style: solid;
+    border-width: 0 0 0 1em;
+    padding: 0 0.3em;
+}
+
+.legend-value {
+	padding-left: 5px;
+}
+
+.date {
+    font-size: 85%;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: #5e5e5e;
+    font-size: 10px;
+    font-family: "Lucida Grande", Verdana, Helvetica, Arial, sans-serif;
+    font-weight: 100;
+    text-align: right;
+}
+
+.headline {
+    font: bold 34px "Century Schoolbook", Georgia, Times, serif;
+    color: #333;
+    line-height: 90%;
+    margin: .2em 0 .4em 0;
+    letter-spacing: -2px;
+}
+
+.tag {
+    color: #5e5e5e;
+    font-size: 14px;
+    padding-bottom: 20px;
+    margin: 5px;
+    font-family: "Lucida Grande", Verdana, Helvetica, Arial, sans-serif;
+}
+
+li, p {
+    font-size: 16px;
+}
+
+.li-polls {
+    font-size: 24px;
+}
